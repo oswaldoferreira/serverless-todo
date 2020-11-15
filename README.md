@@ -7,11 +7,14 @@ This project uses serverless.com to package and deploy the application to AWS us
 - DynamoDB
 - API Gateway
 - IAM roles
+- AWS X-Ray
+- Cloudwatch
 
 The goal of the project was to play with AWS services, mainly exploring the potential of setting up serverless environments using
-the serverless framework.
+the serverless framework. This project is part of a Udacity course.
 
-This project is part of a Udacity course.
+**Notice:** Tests were not added here as the goal here is learning about FaaS, I'd recommend writing tests for any production
+environment.
 
 ## Setup
 
