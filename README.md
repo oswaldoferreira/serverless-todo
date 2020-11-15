@@ -33,7 +33,8 @@ sls deploy -v
 
 ### Frontend
 
-To run a client application first edit the `client/src/config.ts` file to set correct parameters. And then run the following commands:
+To run a client application first edit the `client/src/config.ts` file to set correct parameters 
+(you'll need to setup an Auth0 application), then run the following commands:
 
 ```
 cd client
